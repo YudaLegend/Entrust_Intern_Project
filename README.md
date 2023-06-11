@@ -14,14 +14,14 @@ Input file containing the text to be paginated
 
 4.Compile the code using the following command:
 
-'''
+```
 g++ entrust1.cpp -o program
-'''
+```
 
 5.Run the compiled program:
-'''
+```
 ./program
-'''
+```
 
 6.The paginated text will be displayed on the console.
 
@@ -37,7 +37,7 @@ Suppose the input file "document.txt" contains the following text:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a lorem euismod, tincidunt ipsum vitae, eleifend lorem. Nulla facilisi. Sed aliquet dapibus sem, eget commodo mi feugiat non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
 
 Running the program will produce the following paginated output:
-'''
+```
 [Page 0]
 Lorem ipsum dolor sit amet, consectetur adipiscing
 elit. Proin a lorem euismod, tincidunt ipsum vitae,
@@ -45,5 +45,5 @@ eleifend lorem. Nulla facilisi. Sed aliquet dapibus
 sem, eget commodo mi feugiat non. Vestibulum ante
 ipsum primis in faucibus orci luctus et ultrices
 posuere cubilia Curae. 
-'''
+```
 
