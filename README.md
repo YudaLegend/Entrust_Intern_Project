@@ -1,4 +1,4 @@
-# Entrust_Inter_Project
+# Entrust_Intern_Project
 This is a simple paging application implemented in C++. It takes input from a file, paginates the text according to specified rules, and outputs the paginated text.
 
 ## Requirements
