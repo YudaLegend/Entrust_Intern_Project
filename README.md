@@ -39,11 +39,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a lorem euismod, 
 Running the program will produce the following paginated output:
 ```
 [Page 0]
-Lorem ipsum dolor sit amet, consectetur adipiscing
-elit. Proin a lorem euismod, tincidunt ipsum vitae,
-eleifend lorem. Nulla facilisi. Sed aliquet dapibus
-sem, eget commodo mi feugiat non. Vestibulum ante
-ipsum primis in faucibus orci luctus et ultrices
-posuere cubilia Curae. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a lorem euismod, 
+tincidunt ipsum vitae, eleifend lorem. Nulla facilisi. Sed aliquet dapibus sem, 
+eget commodo mi feugiat non. Vestibulum ante ipsum primis in faucibus orci 
+luctus et ultrices posuere cubilia Curae.
 ```
 
